@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 
 const App = ({ title }) => <h1 className="title">{title}</h1>;
